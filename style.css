@@ -1,0 +1,19 @@
+.left-card-body{
+
+    background-image: url('left-pic.jpg');
+    background-size: 30rem;
+    width: 30rem;
+    height: 50rem;
+
+}
+
+.left-card-topper{
+    margin-top: 3rem;   
+}
+
+.left-card-lower{
+
+    margin: 18rem 0rem 15rem 0; 
+
+}
+
